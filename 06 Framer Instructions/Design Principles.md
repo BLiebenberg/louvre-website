@@ -4,7 +4,7 @@
 Keep the Framer build visually disciplined.
 
 ## Principles
-- Paper and charcoal only.
+- Paper/clay and charcoal only.
 - 1px charcoal section dividers.
 - Real photography.
 - Clear hierarchy.
